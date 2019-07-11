@@ -1,0 +1,2 @@
+This is the first web project I have created with the odin project.  As the name implies, I will be recreating the google homepage.  By the end of this project, I should be able to create a webpage from scratch using html and css to look a specific way. In other words I will learn and apply the basics of front end web development.  This project is being created according to instructions which can be found here.  
+http://www.theodinproject.com/courses/web-development-101/lessons/html-css
