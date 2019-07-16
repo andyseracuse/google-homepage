@@ -1,1 +1,20 @@
-.logo {text-align: center}
+div {display: block}
+#default-logo {height: 229 px;}
+#logo{display: block;
+    margin-left: auto; 
+    margin-right: auto;
+    padding: 137px; 
+    height: 229;
+}
+#header {height: 56px;}
+ul{list-style-type: none;
+    margin: 0;
+    padding: 0;}
+.nav-bar-image{
+    width: 32px;
+    height: 32px;
+}
+li {
+    display: inline;
+}
+#
